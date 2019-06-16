@@ -51,7 +51,9 @@ public class NewTest
     {
 	  
 	  System.out.println("wel come to deepali automation");
-		
+	  
+	  System.out.println(" demo practices");
+	  	
 		System.setProperty("webdriver.gecko.driver", "Resource/geckodriver.exe");
 		
 		driver =new FirefoxDriver();
